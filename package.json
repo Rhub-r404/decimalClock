@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://rhub-r404.github.io/decimalClock/",
+  "homepage": "https://rhub-r404.github.io/decimalClock",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
